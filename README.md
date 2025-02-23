@@ -5,3 +5,5 @@ Se agregarán mejoras a este proyecto en cuento se verifique su calificacion med
 ## Componentes:
 1. Archivos PHP
 2. Aarchivo Py
+
+Version 1.0
